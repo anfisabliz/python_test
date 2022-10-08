@@ -1,0 +1,5 @@
+[user]
+	name = Anfisa Bliznetsova
+	email = "anfisabliz@gmail.com "
+[alias]
+	history = log --graph
